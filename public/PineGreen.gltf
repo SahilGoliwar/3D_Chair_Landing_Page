@@ -1,0 +1,492 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4,
+      "max": [167.02890014648438, 167.02890014648438, 0],
+      "min": [-167.02890014648438, -167.02890014648438, 0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 48,
+      "componentType": 5126,
+      "count": 4,
+      "max": [0, 0, 1],
+      "min": [0, 0, 1],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 4,
+      "max": [1, 2.3841863594498136e-7, 0, 1],
+      "min": [1, 1.8270841906087298e-7, 0, 1],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4,
+      "max": [1, 1],
+      "min": [2.9802322387695312e-8, 2.9802322387695312e-8],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6,
+      "max": [3],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 96,
+      "componentType": 5126,
+      "count": 9984,
+      "max": [27.317499160766602, 20.318510055541992, -16.326444625854492],
+      "min": [-27.67186164855957, -30.349235534667969, -44.333141326904297],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 119904,
+      "componentType": 5126,
+      "count": 9984,
+      "max": [0.99549472332000732, 0.99964934587478638, 0.99869793653488159],
+      "min": [-0.99549466371536255, -0.99964934587478638, -1],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 64,
+      "componentType": 5126,
+      "count": 9984,
+      "max": [1, 0.99999076128005981, 0.99957317113876343, 1],
+      "min": [
+        -0.99989163875579834, -0.99998009204864502, -0.99975591897964478, -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32,
+      "componentType": 5126,
+      "count": 9984,
+      "max": [0.99307817220687866, 0.99831134080886841],
+      "min": [0.00050000002374872565, 0.0051708430983126163],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 79904,
+      "componentType": 5126,
+      "count": 9984,
+      "max": [4.9845519065856934, 4.1871581077575684],
+      "min": [-5.558784008026123, -6.421696662902832],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5125,
+      "count": 18432,
+      "max": [9983],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 239712,
+      "componentType": 5126,
+      "count": 460,
+      "max": [21.721858978271484, 22.506610870361328, -16.007715225219727],
+      "min": [-21.721826553344727, -33.637290954589844, -17.780040740966797],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 245232,
+      "componentType": 5126,
+      "count": 460,
+      "max": [0.98596751689910889, 0.99228507280349731, 0.21630172431468964],
+      "min": [-0.98596394062042236, -0.99790394306182861, -0.99999773502349854],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 159808,
+      "componentType": 5126,
+      "count": 460,
+      "max": [0.58236914873123169, 0.12590949237346649, 0.9971851110458374, 1],
+      "min": [
+        -0.46417981386184692, -0.9999273419380188, -0.9921678900718689, 1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 159776,
+      "componentType": 5126,
+      "count": 460,
+      "max": [0.94363361597061157, 0.98175740242004395],
+      "min": [0.21535874903202057, 0.60770958662033081],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 163456,
+      "componentType": 5126,
+      "count": 460,
+      "max": [8.0873603820800781, 7.3415827751159668],
+      "min": [1.2697064876556396, -8.2308731079101562],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 73752,
+      "componentType": 5125,
+      "count": 2424,
+      "max": [459],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 250752,
+      "componentType": 5126,
+      "count": 12379,
+      "max": [35.889881134033203, 40.609790802001953, 44.34814453125],
+      "min": [-35.889881134033203, -40.609828948974609, -17.591403961181641],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 399300,
+      "componentType": 5126,
+      "count": 12379,
+      "max": [1, 1, 0.99999052286148071],
+      "min": [-0.9999997615814209, -0.9990202784538269, -0.99999988079071045],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 167168,
+      "componentType": 5126,
+      "count": 12379,
+      "max": [1, 1, 0.99997919797897339, 1],
+      "min": [-1, -0.99999904632568359, -0.99985784292221069, -1],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 167136,
+      "componentType": 5126,
+      "count": 12379,
+      "max": [0.99624496698379517, 0.99950003623962402],
+      "min": [0.00050000002374872565, 0.00050000002374872565],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 266168,
+      "componentType": 5126,
+      "count": 12379,
+      "max": [17.486753463745117, 9.3053207397460938],
+      "min": [-16.999618530273438, -7.5333952903747559],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 83448,
+      "componentType": 5125,
+      "count": 68400,
+      "max": [12378],
+      "min": [0],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "MADE.COM (https://sketchfab.com/made-it)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/moby-accent-chair-pine-green-velvet-59cf5dd1f4b64f2692d6faddf881244b",
+      "title": "Moby Accent Chair, Pine Green Velvet"
+    },
+    "generator": "Sketchfab-5.11.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 357048,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 365200,
+      "byteOffset": 357048,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 547848,
+      "byteOffset": 722248,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 365232,
+      "byteOffset": 1270096,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1635328,
+      "uri": "PineGreen.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "texturesPineGreen/BRASS_metallicRoughness.png"
+    },
+    {
+      "uri": "texturesPineGreen/VELVET_GREEN_baseColor.jpeg"
+    },
+    {
+      "uri": "texturesPineGreen/VELVET_GREEN_metallicRoughness.png"
+    },
+    {
+      "uri": "texturesPineGreen/FLOOR_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "FLOOR",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0, 0, 0, 1],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "BRASS",
+      "occlusionTexture": {
+        "index": 0,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.443137, 0.33333299999999999, 0.145098, 1],
+        "metallicFactor": 1,
+        "roughnessFactor": 0.2273246951
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "FABRIC_BLACK",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.019607800000000002, 0.019607800000000002, 0.019607800000000002, 1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "VELVET_GREEN",
+      "occlusionTexture": {
+        "index": 2,
+        "strength": 0.87976371949999999,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [1, 1, 1, 1],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.89297135959999996
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Plane001_FLOOR_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Moby_Accent_Chair_Pine_Green_BRASS_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9
+          },
+          "indices": 10,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Moby_Accent_Chair_Pine_Green_FABRIC_BLACK_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 12,
+            "POSITION": 11,
+            "TANGENT": 13,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15
+          },
+          "indices": 16,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Moby_Accent_Chair_Pine_Green_VELVET_GREEN_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 18,
+            "POSITION": 17,
+            "TANGENT": 19,
+            "TEXCOORD_0": 20,
+            "TEXCOORD_1": 21
+          },
+          "indices": 22,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [1],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [-0.70710678118654746, -0, -0, 0.70710678118654757]
+    },
+    {
+      "children": [2],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [3],
+      "matrix": [1, 0, 0, 0, 0, 0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1],
+      "name": "37f33aff3d744cf1ad22505b66f87bff.fbx"
+    },
+    {
+      "children": [4, 6],
+      "name": "RootNode"
+    },
+    {
+      "children": [5],
+      "matrix": [
+        1, 0, 0, 0, 0, 2.2204460492503131e-16, -1, 0, 0, 1,
+        2.2204460492503131e-16, 0, 0, 0, 0, 1
+      ],
+      "name": "Plane001"
+    },
+    {
+      "mesh": 0,
+      "name": "Plane001_FLOOR_0"
+    },
+    {
+      "children": [7, 8, 9],
+      "matrix": [
+        1, 0, 0, 0, 0, 2.2204460492503131e-16, -1, 0, 0, 1,
+        2.2204460492503131e-16, 0, 0.17718124389648438, 44.371463775634766,
+        0.84521865844726562, 1
+      ],
+      "name": "Moby_Accent_Chair_Pine_Green"
+    },
+    {
+      "mesh": 1,
+      "name": "Moby_Accent_Chair_Pine_Green_BRASS_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Moby_Accent_Chair_Pine_Green_FABRIC_BLACK_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Moby_Accent_Chair_Pine_Green_VELVET_GREEN_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
